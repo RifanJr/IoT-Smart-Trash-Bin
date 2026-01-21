@@ -50,8 +50,7 @@ The system operates on a dual-sensor logic designed to separate the opening mech
 For detailed technical specifications, electronic schematics, and source code explanation, please refer to the complete proposal document below:
 
 <div align="center">
-  <a href="documentation/Projek MM1_Rifan Januar Rifa'i_235150307111026.pdf">[Projek MM1_Rifan Januar Rifa'i_235150307111026.pdf](https://github.com/user-attachments/files/24768349/Projek.MM1_Rifan.Januar.Rifa.i_235150307111026.pdf)
-
+  <a href="documentation/Projek MM1_Rifan Januar Rifa'i_235150307111026.pdf">
     <img src="https://img.shields.io/badge/Download-Project_PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF" />
   </a>
 </div>
