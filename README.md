@@ -16,7 +16,8 @@ Power: Li-ion 18650 Batteries + TP4056 Module
 Connectivity: Wi-Fi & Telegram Bot API
 
 ⚙️ System Architecture
-<img width="963" height="354" alt="image" src="https://github.com/user-attachments/assets/5f242ea9-9f4e-4ac3-98b9-b773d6ae3509" />
+<img width="948" height="289" alt="image" src="https://github.com/user-attachments/assets/498e1f07-ec5d-452f-a7bc-4e0a4acee83f" />
+
 
 📄 Documentation
 For detailed technical specifications, circuit diagrams, and logic flow, please refer to the full documentation below:
