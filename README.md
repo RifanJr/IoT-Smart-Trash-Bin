@@ -41,7 +41,7 @@ The system operates on a dual-sensor logic designed to separate the opening mech
 
 <br>
 <div align="center">
-  <img src="images/diagram_skema.jpg" alt="System Architecture" width="800">
+ <img width="926" height="286" alt="image" src="https://github.com/user-attachments/assets/bafee1cd-8e85-4fb9-9099-7ff44462a3bf" />
   <p><i>Figure: System Block Diagram</i></p>
 </div>
 <br>
