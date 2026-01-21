@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/IoT-Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" />
 
   <br><br>
-  <img src="images/diagram_skema.jpg" alt="System Architecture" width="800">
+  <img width="938" height="285" alt="image" src="https://github.com/user-attachments/assets/b2ae7dd4-576a-4490-a765-c154ebce02ed" />
+
 
 </div>
 
