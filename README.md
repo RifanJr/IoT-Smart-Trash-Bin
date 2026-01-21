@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/Platform-Arduino-teal?style=for-the-badge&logo=arduino" alt="Arduino" />
   <img src="https://img.shields.io/badge/IoT-Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" />
 
-  <br><br>
-  <img width="938" height="285" alt="image" src="https://github.com/user-attachments/assets/b2ae7dd4-576a-4490-a765-c154ebce02ed" />
-
-
 </div>
 
 <br>
@@ -38,9 +34,17 @@ Designed as a **Computer Engineering implementation**, this system integrates ha
 | **Software** | C++ (Arduino IDE) | Firmware logic & Telegram API integration |
 
 ## ⚙️ System Architecture & Logic
-The system operates on a dual-sensor logic:
+The system operates on a dual-sensor logic designed to separate the opening mechanism from the reporting mechanism:
+
 1.  **Input 1 (Ultrasonic):** Detects object < 30cm -> Triggers Servo to Open.
 2.  **Input 2 (Infrared):** Detects obstruction inside bin -> Triggers Wi-Fi module -> Sends Telegram Message.
+
+<br>
+<div align="center">
+  <img src="images/diagram_skema.jpg" alt="System Architecture" width="800">
+  <p><i>Figure: System Block Diagram</i></p>
+</div>
+<br>
 
 ## 📄 Full Documentation
 For detailed technical specifications, electronic schematics, and source code explanation, please refer to the complete proposal document below:
